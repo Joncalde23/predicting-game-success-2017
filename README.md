@@ -35,7 +35,6 @@ Ventas por región (NA, EU, JP, Otros).
 Puntuaciones de críticos y usuarios.
 
 🚀 Hallazgos Principales
-(Aquí puedes poner 2 o 3 puntos clave una vez que termines el análisis, por ejemplo:)
 
 Del año 2000 al año 2011 se evidencia un alza muy fuerte en el lanzamiento de video juegos.
 
